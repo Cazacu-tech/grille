@@ -1,0 +1,95 @@
+.Haut{
+    background-color: #736A3D;
+    display:flex;
+    height: 100px;
+    flex-wrap: wrap;
+    box-shadow:  0px  10px  black;
+}
+.menu{
+    display:flex;
+    width:45%;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    
+}
+.logo{
+    width:45%;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.blockmenu{
+    color:white;
+    height:40px;
+    width: 100px;
+    background-color: #736A3D;
+    margin-right: 4px;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    
+}
+.blockmenu :hover{
+    background-color: #D97D5B ;
+    height:40px;
+    border-radius: 10px;
+    width: 100px;    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} 
+    
+.menu a{
+    text-decoration: none;
+    color: white ;
+}
+.block{
+    display: flex ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.block1{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C;
+    display: flex ;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+    box-shadow: 12px 5px 5px black
+}
+.block2{
+    height: 300px ;  
+    width: 300px ;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+    box-shadow: 12px 5px 5px black
+}
+.block3{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px; 
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+    box-shadow: 12px 5px 5px black
+}
+.block4{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+    box-shadow: 12px 5px 5px black
+}
